@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+!.env.example
+backend/**/target/
+*.pem
+*.key
+dist/
+coverage/
+tmp/
+.codex-remote-attachments/
+*.log
+.~lock.*#
+~$*.docx
+entrega/
